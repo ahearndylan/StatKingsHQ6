@@ -76,7 +76,7 @@ def build_tweet(question_text):
     return (
         "🏀 STAT KINGS TRIVIA 👑\n\n"
         f"{question_text}\n\n"
-        "Reply with your guess ⬇️\n"
+        "Reply with your guess ⬇️\n\n"
         "#NBATrivia #StatKingsHQ"
     )
 
