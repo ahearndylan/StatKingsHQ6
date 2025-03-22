@@ -27,46 +27,87 @@ client = tweepy.Client(
 
 TRIVIA_QUESTIONS = [
     {
-        "question": "Who is the only player to record a 40-point triple-double in an NBA Finals game?",
-        "answer": "LeBron James"
-    },
-    {
-        "question": "Which player has the most combined points + rebounds + assists in a single playoff game over the last 50 years?",
-        "answer": "LeBron James"
-    },
-    {
-        "question": "Who is the only player to have a 30-20-10 stat line in a playoff game since 2000?",
-        "answer": "Nikola Jokic"
-    },
-    {
-        "question": "Which player has the most 50-point games in NBA playoff history?",
-        "answer": "Michael Jordan"
-    },
-    {
-        "question": "Who holds the record for the most assists in a single NBA Finals game?",
+        "question": "Who is the only player in NBA history with a 20-assist triple-double in a playoff game?",
         "answer": "Magic Johnson"
     },
     {
-        "question": "Who is the only player to average a triple-double in an entire NBA Finals series?",
+        "question": "Which player recorded the only 30-point, 10-block game in the playoffs since 2000?",
+        "answer": "Dwight Howard"
+    },
+    {
+        "question": "Who is the youngest player to record a triple-double in NBA playoff history?",
+        "answer": "Magic Johnson"
+    },
+    {
+        "question": "Which player had the most steals in a single NBA playoff game?",
+        "answer": "Allen Iverson"
+    },
+    {
+        "question": "Who was the last player to average at least 35 PPG in a single postseason (min 10 games)?",
+        "answer": "Luka Doncic"
+    },
+    {
+        "question": "Which player recorded a 45-point game while shooting 70 percent+ in a playoff loss?",
+        "answer": "Giannis Antetokounmpo"
+    },
+    {
+        "question": "Who is the only player with a 40-point game off the bench in NBA playoff history?",
+        "answer": "Nick Van Exel"
+    },
+    {
+        "question": "Which player has the most playoff games with 5+ steals since 2000?",
+        "answer": "Dwyane Wade"
+    },
+    {
+        "question": "Who recorded the most blocks in a single NBA Finals game?",
+        "answer": "Dwight Howard"
+    },
+    {
+        "question": "Which player had a 25-rebound game in the 2023 NBA Playoffs?",
+        "answer": "Kevon Looney"
+    },
+    {
+        "question": "Which player recorded back-to-back 40-point games in the 2022 NBA Playoffs?",
+        "answer": "Luka Doncic"
+    },
+    {
+        "question": "Who is the only player with a triple-double in their NBA Finals debut?",
+        "answer": "Jason Kidd"
+    },
+    {
+        "question": "Who scored the most points in their first ever NBA playoff game?",
+        "answer": "John Williamson"
+    },
+    {
+        "question": "Which player has the most career playoff games with 30+ points and 10+ assists?",
         "answer": "LeBron James"
     },
     {
-        "question": "Which player had a 35-point, 20-rebound, 10-assist game in the playoffs in the 2020s?",
+        "question": "Who is the only player with a playoff game of 25+ points, 15+ assists, and 0 turnovers?",
+        "answer": "Chris Paul"
+    },
+    {
+        "question": "Which player is the only center with 15+ assists in a modern era playoff game?",
         "answer": "Nikola Jokic"
     },
     {
-        "question": "Who has the most career playoff triple-doubles?",
+        "question": "Who holds the record for most three-pointers made in a single NBA Finals game?",
+        "answer": "Stephen Curry"
+    },
+    {
+        "question": "Who is the oldest player to record a triple-double in a playoff game?",
         "answer": "LeBron James"
     },
     {
-        "question": "Which player has the most career points in NBA playoff history?",
-        "answer": "LeBron James"
+        "question": "Which player had the most 40+ point games in a single postseason?",
+        "answer": "Michael Jordan"
     },
     {
-        "question": "Who is the only player with multiple 20-rebound games in the 2023 NBA Playoffs?",
-        "answer": "Kevon Looney"
+        "question": "Which player recorded a 30-10-10 playoff triple-double while hitting 7+ threes?",
+        "answer": "James Harden"
     }
 ]
+
 
 # ======================= #
 #     TWEET FORMATTER     #
